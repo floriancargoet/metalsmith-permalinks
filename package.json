@@ -9,7 +9,8 @@
     "debug": "~0.7.4",
     "moment": "^2.5.1",
     "slug": "^0.5.0",
-    "substitute": "https://github.com/segmentio/substitute/archive/0.0.1.tar.gz"
+    "substitute": "https://github.com/segmentio/substitute/archive/0.0.1.tar.gz",
+    "json-query": "~1.4.0"
   },
   "devDependencies": {
     "assert-dir-equal": "0.0.1",
